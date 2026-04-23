@@ -1,0 +1,1 @@
+Creazione di un Bootstrap Layout. con Codice scritto tutto in html e una piccola parte in css. All'interno vari titoli tra cui nell'header perciò in cima alla pagina e nelle varie sezioni. Nelle varie sezioni ci sono i vari paragrafi. Tutto ciò rispettando le varie grandezze del Layout per i vari dispositivi mobili.

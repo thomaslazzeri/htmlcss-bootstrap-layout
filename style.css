@@ -1,9 +1,4 @@
+/* class with the container inside to specify the size of the content */
 [class^="container"] {
-    min-height: 600px;
-    
+    min-height: 500px;
 }
-
-.row {
-    min-height: 200px;
-}
-
